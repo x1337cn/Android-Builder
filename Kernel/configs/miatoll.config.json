@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "miatoll",
+      "repo": "https://github.com/daboynb/kernel_xiaomi_sm6250",
+      "branch": "thirteen",
+      "device": "miatoll",
+      "defconfig": "vendor/xiaomi/miatoll_defconfig"
     },
     "toolchains": [
       {
@@ -60,6 +60,6 @@
       "release": true
     },
     "enableKernelSU": true,
-    "enableLXC": false
+    "enableLXC": true
   }
 ]
