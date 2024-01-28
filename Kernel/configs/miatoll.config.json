@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "davinci",
       "repo": "https://github.com/raul-16/android_kernel_xiaomi_davinci.git",
-      "branch": "three",
+      "branch": "one",
       "device": "davinci",
       "defconfig": "arch/arm64/configs"
     },
