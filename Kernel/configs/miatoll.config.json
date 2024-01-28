@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "miatoll",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_sm6250",
-      "branch": "thirteen",
-      "device": "miatoll",
-      "defconfig": "vendor/xiaomi/miatoll_defconfig"
+      "name": "davinci",
+      "repo": "https://github.com/raul-16/android_kernel_xiaomi_davinci",
+      "branch": "three",
+      "device": "davinci",
+      "defconfig": "arch/arm64/configs"
     },
     "toolchains": [
       {
@@ -59,7 +59,7 @@
       "use": true,
       "release": true
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": true
   }
 ]
