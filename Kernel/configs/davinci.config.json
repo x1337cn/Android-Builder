@@ -1,11 +1,11 @@
 [
     {
       "kernelSource": {
-        "name": "xpeng",
-        "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm.git",
-        "branch": "MMI-S1RXS32.50-13-12",
-        "device": "xpeng",
-        "defconfig": "gki_defconfig"
+        "name": "davinci",
+        "repo": "https://github.com/x1337cn/msm-4.14.git",
+        "branch": "12.1",
+        "device": "davinci",
+        "defconfig": "davinci_defconfig"
       },
       "toolchains": [
         {
@@ -59,7 +59,7 @@
         "use": true,
         "release": true
       },
-      "enableKernelSU": false,
+      "enableKernelSU": true,
       "enableLXC": true
     }
   ]
