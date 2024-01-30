@@ -2,8 +2,8 @@
     {
       "kernelSource": {
         "name": "xpeng",
-        "repo": "https://github.com/x1337cn/android_kernel_motorola_sm7325.git",
-        "branch": "lineage-20",
+        "repo": "https://github.com/MotorolaMobilityLLC/kernel-msm.git",
+        "branch": "MMI-S1RXS32.50-13-12",
         "device": "xpeng",
         "defconfig": "gki_defconfig"
       },
