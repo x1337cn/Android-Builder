@@ -2,10 +2,10 @@
     {
       "kernelSource": {
         "name": "davinci",
-        "repo": "https://github.com/x1337cn/msm-4.14.git",
-        "branch": "12.1",
+        "repo": "https://github.com/x1337cn/kernel_xiaomi_sm6150.git",
+        "branch": "14",
         "device": "davinci",
-        "defconfig": "davinci_defconfig"
+        "defconfig": "cuttlefish_defconfig"
       },
       "toolchains": [
         {
