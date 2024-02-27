@@ -2,8 +2,8 @@
     {
       "kernelSource": {
         "name": "davinci",
-        "repo": "https://github.com/x1337cn/davinci_kernel.git",
-        "branch": "13",
+        "repo": "https://github.com/x1337cn/android_kernel_xiaomi_davinci.git",
+        "branch": "lineage-21",
         "device": "davinci",
         "defconfig": "davinci_defconfig"
       },
